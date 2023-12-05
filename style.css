@@ -1,0 +1,30 @@
+.Cabeçalho{
+    background-color: #e5f5f5;
+    color: lightslategray;
+    text-align: center;
+    font-size: large;
+}
+.flamengobosta{
+    text-align: center;
+    color: lightslategray;
+    background-color: #dbf1f1;
+}
+.flamengolixo{
+ text-align: center;
+ background-color: #d7eeee;
+}
+
+.texto{
+    color: darkslategrey;
+    font-size: x-large;
+    color: darkslategray;
+    background-color: #bae7e7;
+}
+
+.body{
+    background-color: #d3f0f0;
+}
+.flamengolixo2{
+    color: rgb(82, 93, 105);
+    background-color: #d0f1f1;
+}
